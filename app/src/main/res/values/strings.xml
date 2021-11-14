@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab3_5_kotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="move_to2">to second</string>
+    <string name="move_to1">to first</string>
+    <string name="move_to3">to third</string>
+    <string name="title_about">Activity about</string>
+</resources>
